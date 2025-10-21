@@ -4,7 +4,7 @@
 
 
 
-Welcome to my **Machine Learning Journey**! 🚀  
+Welcome to my **Machine Learning Journey**! 
 A clean, well-structured repo to track hands-on ML projects, experiments, and concepts—perfect for learning, practicing, and showcasing ML skills.  
 
 ---
@@ -18,5 +18,6 @@ A clean, well-structured repo to track hands-on ML projects, experiments, and co
 - 🚀 **Projects & Deployments** – End-to-end ML workflows and experiments  
 
 ---
+
 
 
